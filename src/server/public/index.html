@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Network Security Dashboard</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        .dashboard {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: grid;
+            grid-template-columns: 3fr 1fr;
+            gap: 20px;
+        }
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+        .view-all {
+            padding: 10px 20px;
+            background-color: #007bff;
+            color: white;
+            text-decoration: none;
+            border-radius: 4px;
+        }
+        .attack-list, .stats-panel {
+            background: white;
+            border-radius: 8px;
+            padding: 20px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        .attack-item {
+            margin-bottom: 15px;
+            padding: 15px;
+            border-left: 5px solid;
+            background-color: #f9f9f9;
+        }
+        .attack-item.high { border-left-color: #dc3545; }
+        .attack-item.medium { border-left-color: #ffc107; }
+        .attack-item.low { border-left-color: #28a745; }
+        #connection-status {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            padding: 10px;
+            border-radius: 4px;
+        }
+        .connected { background: #28a745; color: white; }
+        .disconnected { background: #dc3545; color: white; }
+    </style>
+</head>
+<body>
+    <div class="dashboard">
+        <div class="attack-list">
+            <div class="header">
+                <h2>Recent Network Attacks</h2>
+                <a href="/all-attacks.html" class="view-all">View All Attacks</a>
+            </div>
+            <div id="attackContainer"></div>
+        </div>
+        <div class="stats-panel">
+            <h3>Attack Statistics</h3>
+            <div>Total Attacks: <span id="totalAttacks">0</span></div>
+            <div>Blocked Attacks: <span id="blockedAttacks">0</span></div>
+            <div>Active Threats: <span id="activeThreats">0</span></div>
+            <hr>
+            <h4>Attack Types Blocked</h4>
+            <div>SQL Injection: <span id="sqlBlocked">0</span></div>
+            <div>XSS: <span id="xssBlocked">0</span></div>
+            <div>DDoS: <span id="ddosBlocked">0</span></div>
+            <div>Command Injection: <span id="cmdBlocked">0</span></div>
+        </div>
+    </div>
+    <div id="connection-status"></div>
+
+    <script>
+        const ws = new WebSocket(`ws://${window.location.host}`);
+        const attackContainer = document.getElementById('attackContainer');
+        const connectionStatus = document.getElementById('connection-status');
+        const statsElements = {
+            total: document.getElementById('totalAttacks'),
+            blocked: document.getElementById('blockedAttacks'),
+            active: document.getElementById('activeThreats'),
+            sqlBlocked: document.getElementById('sqlBlocked'),
+            xssBlocked: document.getElementById('xssBlocked'),
+            ddosBlocked: document.getElementById('ddosBlocked'),
+            cmdBlocked: document.getElementById('cmdBlocked')
+        };
+
+        let attackStats = { 
+            total: 0, 
+            blocked: 0, 
+            active: 0,
+            blockedTypes: {
+                'SQL Injection': 0,
+                'XSS': 0,
+                'DDoS': 0,
+                'Command Injection': 0
+            }
+        };
+
+        function updateConnectionStatus(connected) {
+            connectionStatus.textContent = connected ? 'Connected' : 'Disconnected';
+            connectionStatus.className = connected ? 'connected' : 'disconnected';
+        }
+
+        function updateStats() {
+            statsElements.total.textContent = attackStats.total;
+            statsElements.blocked.textContent = attackStats.blocked;
+            statsElements.active.textContent = attackStats.active;
+            statsElements.sqlBlocked.textContent = attackStats.blockedTypes['SQL Injection'];
+            statsElements.xssBlocked.textContent = attackStats.blockedTypes['XSS'];
+            statsElements.ddosBlocked.textContent = attackStats.blockedTypes['DDoS'];
+            statsElements.cmdBlocked.textContent = attackStats.blockedTypes['Command Injection'];
+        }
+
+        function createAttackElement(attack) {
+            const div = document.createElement('div');
+            div.className = `attack-item ${(attack.severity || 'medium').toLowerCase()}`;
+            div.innerHTML = `
+                <strong>Type:</strong> ${attack.type || 'Unknown'}<br>
+                <strong>IP:</strong> ${attack.ip || 'N/A'}<br>
+                <strong>Timestamp:</strong> ${new Date(attack.timestamp).toLocaleString()}<br>
+                <strong>Severity:</strong> ${attack.severity || 'Medium'}<br>
+                <strong>Details:</strong> ${JSON.stringify(attack.details || {})}
+            `;
+            return div;
+        }
+
+        ws.onopen = () => {
+            updateConnectionStatus(true);
+        };
+
+        ws.onmessage = (event) => {
+            const data = JSON.parse(event.data);
+            
+            if (data.type === 'initial') {
+                attackContainer.innerHTML = '';
+                data.attacks.slice(0, 3).forEach(attack => {
+                    attackContainer.appendChild(createAttackElement(attack));
+                });
+                
+                // Reset stats
+                attackStats.total = data.attacks.length;
+                attackStats.blocked = data.attacks.filter(a => a.details.blocked).length;
+                attackStats.active = data.attacks.filter(a => !a.details.blocked).length;
+                
+                // Count blocked attacks by type
+                attackStats.blockedTypes = {
+                    'SQL Injection': 0,
+                    'XSS': 0,
+                    'DDoS': 0,
+                    'Command Injection': 0
+                };
+                
+                data.attacks.forEach(attack => {
+                    if (attack.details.blocked && attackStats.blockedTypes.hasOwnProperty(attack.type)) {
+                        attackStats.blockedTypes[attack.type]++;
+                    }
+                });
+                
+                updateStats();
+            } else if (data.type === 'attack') {
+                const attackElement = createAttackElement(data.data);
+                attackContainer.insertBefore(attackElement, attackContainer.firstChild);
+                
+                while (attackContainer.children.length > 3) {
+                    attackContainer.removeChild(attackContainer.lastChild);
+                }
+                
+                attackStats.total++;
+                if (data.data.details.blocked) {
+                    attackStats.blocked++;
+                    if (attackStats.blockedTypes.hasOwnProperty(data.data.type)) {
+                        attackStats.blockedTypes[data.data.type]++;
+                    }
+                } else {
+                    attackStats.active++;
+                }
+                updateStats();
+            }
+        };
+
+        ws.onerror = (error) => {
+            console.error('WebSocket Error:', error);
+            updateConnectionStatus(false);
+        };
+
+        ws.onclose = () => {
+            updateConnectionStatus(false);
+            console.warn('WebSocket connection closed. Attempting to reconnect...');
+            setTimeout(() => window.location.reload(), 5000);
+        };
+    </script>
+</body>
+</html>

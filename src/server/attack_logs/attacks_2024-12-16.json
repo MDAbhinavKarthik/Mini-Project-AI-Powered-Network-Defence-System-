@@ -1,0 +1,1850 @@
+[
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T04:31:53.851Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "91.48%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T04:31:58.859Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "91.80%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T04:32:03.868Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "92.64%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T04:32:08.868Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "91.19%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T04:32:13.876Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "91.84%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T04:32:18.878Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "94.36%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T04:32:23.888Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "92.17%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T04:32:28.891Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "95.14%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T04:32:33.899Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "93.04%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T04:32:38.909Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "93.92%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T04:32:43.922Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "93.48%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T04:32:48.934Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "92.85%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T04:32:53.936Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "91.00%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T04:32:58.944Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "91.75%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T04:34:24.054Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "90.03%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T04:59:26.388Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "90.40%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T04:59:31.401Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "90.49%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T04:59:41.412Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "90.55%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T04:59:46.425Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "90.18%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T04:59:51.436Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "92.18%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T04:59:56.445Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "91.36%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:00:01.452Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "90.65%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:00:06.460Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "90.31%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:00:11.472Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "90.45%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:00:16.477Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "90.75%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:00:21.487Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "90.21%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:00:26.496Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "91.17%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:00:31.506Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "90.77%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:00:36.521Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "90.81%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:00:41.530Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "91.16%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:00:46.538Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "91.48%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:00:51.551Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "90.99%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:00:56.558Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "90.92%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:01:01.576Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "92.22%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:01:06.579Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "91.70%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:01:11.592Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "92.07%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:01:16.601Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "91.37%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:01:21.605Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "91.67%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:01:26.617Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "90.92%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:01:31.624Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "90.96%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:01:36.629Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "92.37%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:01:41.632Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "92.97%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:01:46.654Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "93.10%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:01:51.661Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "92.43%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:01:56.671Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "92.93%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:02:01.674Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "92.00%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:02:06.684Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "92.21%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:02:11.694Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "91.08%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:02:16.699Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "91.78%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:02:21.709Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "91.46%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:02:26.717Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "91.72%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:02:31.720Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "92.09%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:02:36.722Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "91.06%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:02:41.733Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "91.23%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:02:46.743Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "90.66%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:02:51.749Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "90.92%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:02:56.750Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "90.49%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:03:01.764Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "90.89%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:03:06.776Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "91.44%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:03:11.783Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "90.68%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:03:16.788Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "90.39%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:03:46.844Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "91.07%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:03:51.905Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "92.72%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:03:57.169Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "93.27%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:04:02.184Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "93.63%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:04:07.188Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "92.63%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:04:12.198Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "92.99%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:04:17.202Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "92.67%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:04:22.204Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "92.88%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:04:27.211Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "92.96%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:04:32.216Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "92.34%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:04:37.218Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "92.78%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:04:42.220Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "92.28%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:04:47.235Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "92.67%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:04:52.249Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "92.95%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:04:57.257Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "92.49%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:05:02.260Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "92.90%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:05:07.261Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "92.51%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:05:12.261Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "92.78%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:05:17.276Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "91.98%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:05:22.289Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "92.46%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:05:27.302Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "93.01%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:05:32.310Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "92.19%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:05:37.310Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "92.48%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:05:42.326Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "91.83%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:05:47.336Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "92.80%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:05:52.347Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "92.12%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:05:57.352Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "92.36%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:06:02.352Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "92.94%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:06:07.359Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "92.37%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:06:12.361Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "91.18%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:06:17.375Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "90.17%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:06:22.377Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "90.40%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:06:54.679Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "95.03%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:06:59.696Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "94.52%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:07:04.702Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "94.95%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:07:09.703Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "92.06%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:07:14.705Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "92.20%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:07:19.715Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "92.31%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:07:24.722Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "93.07%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:07:29.724Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "92.34%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:07:34.730Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "91.91%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:07:59.777Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "91.51%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:09:44.963Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "92.56%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:09:49.972Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "92.49%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:09:54.977Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "91.46%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:10:04.998Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "90.77%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:10:10.014Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "94.05%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:10:15.016Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "94.92%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:10:20.026Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "94.96%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:10:25.032Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "94.39%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:10:30.042Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "94.86%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:10:35.043Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "90.83%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:10:40.049Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "91.23%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:10:45.053Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "90.04%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:10:50.063Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "90.43%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:10:55.077Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "91.10%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:11:00.088Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "90.80%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:14:30.427Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "91.66%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:14:35.428Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "90.37%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:14:45.454Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "91.56%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:14:50.468Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "90.85%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:14:55.471Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "91.98%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:15:00.476Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "92.76%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:15:05.478Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "93.30%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:15:10.479Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "94.43%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:15:15.492Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "90.49%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:15:20.503Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "91.42%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:15:25.506Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "90.20%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:15:30.514Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "90.56%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:16:10.558Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "93.73%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:16:20.581Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "90.56%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:16:25.588Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "91.04%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:16:35.612Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "90.13%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:16:40.625Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "90.20%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:16:50.646Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "90.06%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:33:30.510Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "90.28%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:48:02.062Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "90.31%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:53:32.661Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "90.66%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:53:37.673Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "91.68%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:53:42.682Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "93.48%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:53:47.688Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "94.08%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:53:52.700Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "94.56%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:53:57.711Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "94.96%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T05:54:02.724Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "91.43%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T06:07:14.276Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "91.23%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T06:07:19.280Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "91.03%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T06:07:24.292Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "90.43%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T06:07:29.298Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "92.28%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T06:07:34.316Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "91.59%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T06:07:39.319Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "91.51%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T06:07:54.354Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "90.04%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T06:08:09.426Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "90.26%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  },
+  {
+    "type": "Resource Exhaustion",
+    "ip": "System",
+    "timestamp": "2024-12-16T06:08:14.439Z",
+    "severity": "Medium",
+    "details": {
+      "cpuUsage": "0.00%",
+      "memoryUsage": "90.45%",
+      "action": "Monitoring",
+      "totalBlockedIPs": 0
+    }
+  }
+]
