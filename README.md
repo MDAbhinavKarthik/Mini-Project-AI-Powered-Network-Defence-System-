@@ -1,4 +1,3 @@
-# Mini-Project-AI-Powered-Network-Defence-System-
 # AI-Powered Network Defense System Mini-Project
 
 ## 🛡️ Project Overview
@@ -29,7 +28,7 @@ This mini-project implements an advanced AI-powered network defense system desig
 
    pip install -r requirements.txt
 
-   🚀 Usage
+🚀 Usage
 Running the Network Defense System
 
 python main.py
@@ -40,20 +39,23 @@ Modify config.yaml to customize:
 Network interfaces
 Threat detection sensitivity
 Logging preferences
+
 📊 Components
 main.py: Primary application entry point
 threat_detector.py: AI-powered threat detection module
 network_monitor.py: Network traffic monitoring
 response_engine.py: Automated threat response mechanisms
+
 🔬 How It Works
 Network Monitoring: Continuously captures and analyzes network traffic
 Threat Detection: Machine learning models identify potential security risks
 Automated Response: Implements predefined mitigation strategies
 Logging: Records all detected threats and system actions
 🛠️ Development
-Running Tests
 
+**Running Tests**
 python -m pytest tests/
+
 Contributing
 Fork the repository
 Create your feature branch (git checkout -b feature/AmazingFeature)
@@ -67,6 +69,6 @@ This is a mini-project for educational purposes. Not intended for production use
 Distributed under the MIT License. See LICENSE for more information.
 
 🤝 Contact
-Your Name - your.email@example.com
+Your Name - mdabhinavkarthik@gmail.com
 
-Project Link: https://github.com/yourusername/ai-network-defense
+Project Link: https://github.com/MDAbhinavKarthik/Mini-Project-AI-Powered-Network-Defence-System-.git
